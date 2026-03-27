@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0362220-6c51-4d08-8ab9-b33687acedc2" name="Changes" comment="Project Start">
-      <change afterPath="$PROJECT_DIR$/todo_list/src/data.json" afterDir="false" />
+    <list default="true" id="c0362220-6c51-4d08-8ab9-b33687acedc2" name="Changes" comment="FEAT: First feat&#10;Working on second one">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo_list/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo_list/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,9 +18,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GUDENSCHWAGER-Oliver-24007338&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GUDENSCHWAGER-Oliver-24007338/dev-mobile-projet-1.git&quot;,
+    &quot;accountId&quot;: &quot;943d0a72-1e78-46c0-ba1c-9a4200ec2fdb&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3BCRKq2imuNySrxtStclDtVK2yP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -35,6 +48,8 @@
     "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
+    "npm.start.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "/usr/local/idea-IU-253.28294.334/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -43,6 +58,23 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/todo_list/src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/todo_list/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -59,7 +91,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773991005311</updated>
-      <workItem from="1773991007168" duration="12184000" />
+      <workItem from="1773991007168" duration="12234000" />
+      <workItem from="1774450944073" duration="618000" />
+      <workItem from="1774614427580" duration="13399000" />
     </task>
     <task id="LOCAL-00001" summary="Project Start">
       <option name="closed" value="true" />
@@ -69,14 +103,34 @@
       <option name="project" value="LOCAL" />
       <updated>1773992317942</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="FEAT: First feat&#10;Working on second one">
+      <option name="closed" value="true" />
+      <created>1774005403418</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774005403418</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project Start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project Start" />
+    <MESSAGE value="FEAT: First feat&#10;Working on second one" />
+    <option name="LAST_COMMIT_MESSAGE" value="FEAT: First feat&#10;Working on second one" />
   </component>
 </project>
